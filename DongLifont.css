@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "DongLifont";  /* 给新字体起个名 */
+    src: url("DongLiShanZhouLiangTongShuZhengKai（JianTi）-2.ttf") format('truetype'); /* 指向新上传的文件 */
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
