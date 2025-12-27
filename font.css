@@ -1,7 +1,7 @@
 @font-face {
     font-family: "YanMinchao";
     /* 直接引用同目录下的文件名 */
-    src: url("01HomuraM-ExtraLight-2.otf") format('truetype');
+    src: url("01HomuraM-ExtraLight-2.otf") format('opentype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
